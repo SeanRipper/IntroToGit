@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\bin\Debug\net6.0\Practice Examples w Lecture.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\bin\Debug\net6.0\Practice Examples w Lecture.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\bin\Debug\net6.0\Practice Examples w Lecture.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\bin\Debug\net6.0\Practice Examples w Lecture.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\bin\Debug\net6.0\Practice Examples w Lecture.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\Practice Examples w Lecture.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\Practice Examples w Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\Practice Examples w Lecture.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\Practice Examples w Lecture.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\Practice Examples w Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\Practice Examples w Lecture.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\refint\Practice Examples w Lecture.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\Practice Examples w Lecture.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\Practice Examples w Lecture.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Practice Examples w Lecture\Practice Examples w Lecture\obj\Debug\net6.0\ref\Practice Examples w Lecture.dll
